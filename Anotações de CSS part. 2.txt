@@ -1,0 +1,52 @@
+Usando o id com CSS:Faz separação das configurações gerais ou tag.
+ -Não use dois id no mesmo documento
+ *Tudo que em HTML é id = em CSS é #
+ *Tudo que em HTML é class = em CSS é .
+Na pag HTML <h1 id="Nome da id">
+Na pag CSS use #"Nome da id" criada em HTML
+
+Para usar a mesma configuração em varios elementos use a tag "class"
+ -Pode ser usada mais de uma class no mesmo elemento
+ -Pode-se usar com id
+
+Pseudo-classes:
+ Usa-sa div para dividir uma configuração
+ -':hover' - Para mostrar quando passar o mouse
+ -':visited' - Mudar quando o link for clicado
+ -':active' - Mudar no momento do click
+ 
+Modelo de caixa:
+bordas:
+-border-width- expessura em pixels
+-border-style- estilo da borda
+-border-color - cor da borda
+Esquema de shorthand:
+-'border: expessura estilo cor;'
+-'padding: pixels;' (se as 4 medias forem iguais usa-se apenas uma)
+margin e outline seguem o mesmo exemplo.
+box-shadow - Para fazer sombras
+Padding:
+Espaço entre o conteúdo e a borda da caixa.
+Segue uma ordem=> padding-top, padding-right, padding-bottom e padding-left.
+
+
+Margen:
+Fica fora da box-level
+-margin: auto- CENTRALIZA A CAIXA
+
+Grouping Tags:
+div: box-level
+span: inline-level
+header:
+main:
+footer:
+nav:
+section:
+article:
+aside:
+
+VARIAVEIS NO CSS:
+Use o comando :root
+Você pode usar para a paleta de cores e de fontes
+
+

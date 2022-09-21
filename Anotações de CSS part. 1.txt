@@ -1,0 +1,53 @@
+ESTILOS INLINE:
+Os estilos são realizados em cada linha, uma por uma.
+
+ESTILOS LOCAIS/INTERNOS:
+Abra a tag <style> em <head> ou <title>. Em seguida abra a tag desejada,
+seja <body> ou até <h1>. 
+Tudo que for aplicado dentro das chaves {} será aplicado as demais tags.
+
+ESTILOS EXTERNOS:
+Dica: Para criar uma pag externa use a tag <a> e nomeie a nova pag. Em seguida
+segure o Ctrl e clique com o mouse. O html criará uma pag automaticamente.
+Na pag recem criada use a regra '@charset "UTF-8";'
+
+**É possivel usar os três estilos simultaneamente.
+
+Circulo cromático
+Paleta de cores: De 3 a 5 cores
+*Verificar a cor primaria da logo do cliente para definir a paleta
+
+Anatomia do tipo
+É importante saber qual fonte é melhor para qual situação do site
+Safe combination: Ao menos 3 opções de fontes, caso o dispositivo não encontre a primeira ele pula
+para a seguinte.
+
+Peso, estilo e shorthand font:
+font-size: 1em para escolher o tamanho da fonte
+peso da font - font-weigh: Ctrl+espaço para escolher o peso 
+font-style: pode escolher entre normal ou italico
+text-decotarion: para negrito
+
+shorthand:
+font:italic bolder 3em 'work Sans', sans-serif;
+
+Usando Google Fonts:
+fonts.google.com
+Escolha a fonte -> selecionar -> importar -> coie o código -> cole no campo <style>
+font-family: (o nome da fonte importada)
+
+Fontes externas:
+site dafont.com
+baixar a fonte -> cole na mesma pag.
+
+Capturando as fontes usadas em um site:
+chrome web store -> busque fonts ninja
+
+Como identificar fontes dentro de imagens:
+sites:
+-Whatfontis.com
+-fontsqurrel.com
+-myfonts.com
+
+
+ 

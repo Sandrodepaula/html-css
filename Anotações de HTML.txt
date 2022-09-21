@@ -1,0 +1,38 @@
+ADICIONAR FAVICON:
+Site iconArchive - baixar no formato ico
+Site favicon.cc - desenhe seu próprio favicon
+Site favicon.io - crie seu favicon
+<head>
+	<link:favicon>
+
+LINK INTERNO:
+Crie uma nova pag.html -> faça um evelopamento <a>
+Use o atalho Ctrl + espaço para selecionar a pasta desejada
+
+ENVELOPAR:
+Selecione a parte a ser envelopada e pressione Ctrl e Shift + P; 
+
+REDIRECIONAMENTO DE PÁGINA:
+TAG <a>"URL" target:"_blank" rel:"external"</a> 
+
+IMAGEM DINAMICA:
+TAG picture + (source media type - para definir o tamanho). As imagens devem 
+estar em ordem da menor para a maior ou vice versa.
+
+ADICIONAR AUDIO:
+*Dica: No perfil do youtube ->studio -> biblioteca de audio
+<audio> "" controls (adiciona o controle de audio) autoplay
+
+ADICIONAR VIDEO:
+*Dica: site pexels -> download de um video
+formatos: mp4, ogv, 
+*Dica: Handbrake Conversor de video
+formato mais popular é o mp4
+<video controls>
+<source src> 
+Coloque todos os formatos disponiveis por causa dos navegadores
+
+ADICIONAR VIDEO SERVIDOR EXTERNO:
+youtube -> pesquise por "animation rell" -> compartilhar -> incorporar ->
+copie e cole no HTML
+Outra opção de site é o vimeo
