@@ -49,4 +49,18 @@ VARIAVEIS NO CSS:
 Use o comando :root
 Você pode usar para a paleta de cores e de fontes
 
+POSICIONAMENTO:
+background-position faz a ancoragem da imagem no lado escolhido
+body com height: 98vh
+
+DIMENÇÃO DE IMAGEM
+background-size: 100%; utiliza o tamanho total do monitor
+background-size: contain; utiliza 100% da imagem
+background-size: cover ; ajusta a imagem na tela porém pode cortar a imagem
+background-attachment: fixed; fixa a imagem e move apenas o texto
+
+SHORTHAND - BACKGROUND
+color > image > position >'/'>size > repeat > attachment
+
+
 
