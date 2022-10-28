@@ -1,0 +1,7 @@
+CENTRALIZAÇÃO VERTICAL
+Deve ter um container e um conteudo
+O container fica em position: relative
+O conteudo fica em position: absolute
+Para movimentar a box do conteudo usa-se left e top em porcentagem
+Para fazer ajustes usa-se transform: translate em porcentagem
+
