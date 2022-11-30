@@ -46,12 +46,17 @@ article:
 aside:
 
 VARIAVEIS NO CSS:
-Use o comando :root
+Use o comando :root { --nome da variavel: cor ou fonte; }
+Quando for usar digite "propriedade: var(--nome da variavel)"
 Você pode usar para a paleta de cores e de fontes
 
 POSICIONAMENTO:
 background-position faz a ancoragem da imagem no lado escolhido
 body com height: 98vh
+
+SITE COM IMAGENS AUTORIZADAS:
+unsplash
+pexels
 
 DIMENÇÃO DE IMAGEM
 background-size: 100%; utiliza o tamanho total do monitor

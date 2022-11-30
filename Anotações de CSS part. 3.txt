@@ -5,3 +5,7 @@ O conteudo fica em position: absolute
 Para movimentar a box do conteudo usa-se left e top em porcentagem
 Para fazer ajustes usa-se transform: translate em porcentagem
 
+FONTE:
+font-variant: small-caps (deixa a fonte em caixa alta mas as iniciais maiores
+
+
