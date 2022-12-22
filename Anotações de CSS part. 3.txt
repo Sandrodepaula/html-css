@@ -8,4 +8,7 @@ Para fazer ajustes usa-se transform: translate em porcentagem
 FONTE:
 font-variant: small-caps (deixa a fonte em caixa alta mas as iniciais maiores
 
+CRIANDO FORMULÁRIO
+
+
 
